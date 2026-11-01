@@ -13,6 +13,9 @@ HTML = """
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CAR POINT — Выкуп автомобилей</title>
+    <meta name="description" content="CAR POINT — быстрый и выгодный выкуп автомобилей в Москве и Московской области. Оценка автомобиля, оформление сделки и выплата денег в день обращения.">
+
+<meta name="keywords" content="выкуп автомобилей, срочный выкуп авто, продать автомобиль, выкуп машин Москва, выкуп авто Московская область">
     <style>
         * { box-sizing: border-box; }
         body {
