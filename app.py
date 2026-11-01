@@ -1,5 +1,5 @@
 
-from flask import Flask, request, render_template_string
+from flask import Flask, request, render_template_string, send_from_directory
 import os
 import requests
 
@@ -141,7 +141,9 @@ HTML = """
 </body>
 </html>
 """
-
+@app.route("/yandex_a2f950e3c2880a5b.html")
+def yandex_verification():
+    return send_from_directory(".", "yandex_a2f950e3c2880a5b.html")
 @app.route("/")
 def home():
     return render_template_string(HTML, success=False, error=False)
