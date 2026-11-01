@@ -123,7 +123,16 @@ HTML = """
     </div>
 </section>
 
-<section class="request" id="request">
+<section class="steps" style="padding: 60px 20px; text-align: center; background: #111; color: white;">
+    <h2 style="color: #d4af37;">Как проходит выкуп автомобиля</h2>
+
+    <div style="max-width: 900px; margin: 30px auto; line-height: 1.8;">
+        <p><strong style="color: #d4af37;">01. Оставляете заявку</strong><br>Указываете имя, телефон и информацию об автомобиле.</p>
+        <p><strong style="color: #d4af37;">02. Получаете оценку</strong><br>Мы связываемся с вами и обсуждаем стоимость автомобиля.</p>
+        <p><strong style="color: #d4af37;">03. Проводим осмотр</strong><br>Согласуем удобное время и место осмотра.</p>
+        <p><strong style="color: #d4af37;">04. Получаете деньги</strong><br>После согласования оформляем сделку и производим выплату.</p>
+    </div>
+</section><section class="request" id="request">
     <h2>ОСТАВИТЬ ЗАЯВКУ</h2>
     <p>Расскажите нам о своём автомобиле</p>
 
