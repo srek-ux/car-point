@@ -123,7 +123,35 @@ HTML = """
     </div>
 </section>
 
-<section class="steps" style="padding: 60px 20px; text-align: center; background: #111; color: white;">
+<section style="padding: 60px 20px; background: #0b0b0b; color: white; text-align: center;">
+    <h2 style="color: #d4af37; margin-bottom: 35px;">
+        Почему выбирают CAR POINT
+    </h2>
+
+    <div style="max-width: 900px; margin: auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+
+        <div style="border: 1px solid #d4af37; padding: 25px; border-radius: 12px;">
+            <h3 style="color: #d4af37;">Быстрая оценка</h3>
+            <p>Оценим ваш автомобиль и обсудим стоимость.</p>
+        </div>
+
+        <div style="border: 1px solid #d4af37; padding: 25px; border-radius: 12px;">
+            <h3 style="color: #d4af37;">Быстрая сделка</h3>
+            <p>Поможем организовать выкуп в удобное время.</p>
+        </div>
+
+        <div style="border: 1px solid #d4af37; padding: 25px; border-radius: 12px;">
+            <h3 style="color: #d4af37;">Бесплатная оценка</h3>
+            <p>Предварительная оценка автомобиля бесплатна.</p>
+        </div>
+
+        <div style="border: 1px solid #d4af37; padding: 25px; border-radius: 12px;">
+            <h3 style="color: #d4af37;">Москва и область</h3>
+            <p>Работаем с автомобилями в Москве и Московской области.</p>
+        </div>
+
+    </div>
+</section><section class="steps" style="padding: 60px 20px; text-align: center; background: #111; color: white;">
     <h2 style="color: #d4af37;">Как проходит выкуп автомобиля</h2>
 
     <div style="max-width: 900px; margin: 30px auto; line-height: 1.8;">
