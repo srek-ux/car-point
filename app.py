@@ -105,23 +105,6 @@ HTML = """
     <a href="#request" class="button">ОСТАВИТЬ ЗАЯВКУ</a>
 </section>
 
-<section class="advantages">
-    <h2>ПОЧЕМУ CAR POINT?</h2>
-    <div class="items">
-        <div class="item">
-            <h3>Быстро</h3>
-            <p>Оперативно рассмотрим вашу заявку.</p>
-        </div>
-        <div class="item">
-            <h3>Удобно</h3>
-            <p>Согласуем осмотр автомобиля.</p>
-        </div>
-        <div class="item">
-            <h3>Бесплатно</h3>
-            <p>Предварительная оценка автомобиля.</p>
-        </div>
-    </div>
-</section>
 
 <section style="padding: 60px 20px; background: #0b0b0b; color: white; text-align: center;">
     <h2 style="color: #d4af37; margin-bottom: 35px;">
